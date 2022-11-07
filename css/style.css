@@ -760,7 +760,7 @@ h3.my-profession {
     }
 }
 
-@media(max-width:600px) {
+@media(max-width:800px) {
 
     .contact .contact-form .col-6,
     .contact .contact-info-item,
